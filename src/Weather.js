@@ -1,8 +1,8 @@
 import React from "react";
-
+import './App.css';
 
 export default function Weather () {
     return (
-        <h2>Hello from Stef!</h2>
+        <h2>Hola from Stef!</h2>
     )
 }
