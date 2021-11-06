@@ -1,15 +1,8 @@
+import React from "react";
 import './App.css';
-import SearchEngine from "./SearchEngine";
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-       <h1>Weather Search Engine</h1>
-       <SearchEngine />
-      </header>
-    </div>
+    <div className="App"> Weather App </div>
   );
 }
-
-export default App;
