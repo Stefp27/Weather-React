@@ -3,11 +3,12 @@ import './App.css';
 
 export default function App() {
   return (
-    <div className="App"> Weather App 
+  <div className="App"> 
+    <div className="container">
+    <h1>Weather App</h1> 
     <footer> This project is coded by Stefania Popescu and is open-sourced on <a href="https://github.com/Stefp27/Weather-React/tree/master">GitHub</a>
-
-    </footer>
-    
+  </footer>
     </div>
+  </div>
   );
 }
