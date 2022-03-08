@@ -8,10 +8,11 @@ export default function App() {
     <div className="container">
       <Weather defaultCity="Barcelona" />
       <footer> 
-        This project is coded by Stefania Popescu and is open-sourced on 
-        <a href="https://github.com/Stefp27/Weather-React/tree/master">
-          GitHub
-        </a>
+        This project is coded by Stefania Popescu and is open-sourced on
+        <span> <a href="https://github.com/Stefp27/Weather-React/tree/master">
+        GitHub
+        </a>.
+        </span>
       </footer>
     </div>
   </div>
