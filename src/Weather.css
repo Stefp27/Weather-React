@@ -10,6 +10,7 @@
   border: none;
   border-color: #4E61F2;
   border-radius: 10px;
+  margin-left: -120%;
 }
 
 .btn:hover {
@@ -69,4 +70,24 @@
   line-height: 1;
   top: -34px;
   margin-left: 5px;
+}
+
+a {
+  color: #755AD6;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #4D77FF;
+}
+
+input.form-control {
+  width: 60%;
+  margin-left: 20px;
+  border-radius: 10px;
+  background-color: ghostwhite;
+}
+
+.weather-info {
+  margin-left: 20px;
 }
