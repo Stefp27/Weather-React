@@ -91,3 +91,11 @@ input.form-control {
 .weather-info {
   margin-left: 20px;
 }
+
+@media screen and (max-width: 768px) {
+  .weather .unit{
+    display: block;
+    width: 50%;
+    margin-left: 80px;
+  }
+}
